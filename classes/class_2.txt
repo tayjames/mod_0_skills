@@ -1,0 +1,11 @@
+Knives
+
+Attributes:
+knife_type (string)
+material (string)
+sharpened (boolean)
+
+Method:
+sharpen (updates sharpened attribute to "true")
+cut_bread (cuts break when knife_type = "bread")
+material (prints material)

@@ -1,0 +1,11 @@
+Bread knife
+
+Attributes:
+knife_type: bread
+material: steel
+sharpened: false
+
+Methods:
+.sharpen (updates sharpened attribute)
+.cut (cuts fresh bread)
+material (prints "steel")
