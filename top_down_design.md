@@ -1,0 +1,14 @@
+How to get food at a restaurant
+-Decide on restaurant
+  -Think about what sounds good to eat
+  -Make decision
+-Go to restaurant
+  -Get phone
+  -Locate restaurant with preferred app
+  -Walk/drive/bus
+-Arrive at restaurant
+    -Get seated
+    -Order from waitress
+    -Wait for food
+    -Eat your food
+    -Pay for food
