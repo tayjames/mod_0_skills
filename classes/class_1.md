@@ -2,7 +2,7 @@ Workforce
 
 Attributes:
 employee_type (string)
-wage (integer)
+wage (float)
 hrs_worked (integer)
 duties (array)
 clocked_in? (boolean)

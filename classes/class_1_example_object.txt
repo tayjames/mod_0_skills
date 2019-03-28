@@ -1,0 +1,11 @@
+Boss
+
+Attributes:
+employee_type: Boss
+wage: 25.00
+hrs_worked: 4
+duties: ["manage"]
+
+boss.promote: gets promoted to employee_type "CEO"
+boss.pay: 25.00 * 4 = 100.00
+boss.work: manages all other employee_type
