@@ -1,4 +1,4 @@
-Knives
+Knife
 
 Attributes:
 knife_type (string)
