@@ -3,11 +3,10 @@ Employee
 Attributes:
 employee_type (string)
 wage (float)
-hrs_worked (integer)
 duties (array)
 clocked_in? (boolean)
 
 Methods:
 promote (modifies employee_type/wage)
-pay (multiplies wage * hrs_worked)
+clock_in (modifies clocked_in attribute to "true")
 work (iterates thru the duties)
