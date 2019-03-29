@@ -1,4 +1,4 @@
-Workforce
+Employee
 
 Attributes:
 employee_type (string)
